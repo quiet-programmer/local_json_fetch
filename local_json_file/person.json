@@ -1,0 +1,33 @@
+[
+    {
+        "name" : "Bobby Jospeh",
+        "age" : "20",
+        "height" : "127",
+        "gender" : "male",
+        "hair_color" : "black"
+    },
+    
+    {
+        "name" : "Joy Jospeh",
+        "age" : "18",
+        "height" : "110",
+        "gender" : "female",
+        "hair_color" : "brown"
+    },
+
+    {
+        "name" : "Great Jospeh",
+        "age" : "12",
+        "height" : "90",
+        "gender" : "male",
+        "hair_color" : "black"
+    },
+
+    {
+        "name" : "Goodness Jospeh",
+        "age" : "16",
+        "height" : "120",
+        "gender" : "male",
+        "hair_color" : "brown"
+    }
+]
